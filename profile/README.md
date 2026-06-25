@@ -17,7 +17,7 @@ Passionate about building better IT through PowerShell, C#, and Microsoft techno
 EvotecIT is the home of widely used **open-source projects** trusted by IT admins and enterprises worldwide:
 
 - [GPOZaurr](https://github.com/EvotecIT/GPOZaurr) – GPO management & reporting
-- [TestimoX](https://github.com/EvotecIT/TestimoX) – Active Directory health analyzer
+- [TestimoX](https://testimox.com) – Active Directory health analyzer
 - [OfficeIMO](https://github.com/EvotecIT/OfficeIMO) – Word/Excel/PowerPoint automation
 - [Mailozaurr](https://github.com/EvotecIT/Mailozaurr) – Email diagnostics & automation
 - [DomainDetective](https://github.com/EvotecIT/DomainDetective) – DNS & email security checks
