@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="assets/evotec-logo-horizontal-on-dark.svg#gh-dark-mode-only" alt="Evotec" width="720">
-  <img src="assets/evotec-logo-horizontal-gradient.svg#gh-light-mode-only" alt="Evotec" width="720">
+  <img src="assets/evotec-logo-horizontal-on-dark-tagline.svg#gh-dark-mode-only" alt="Evotec — Evolve. Innovate. Protect." width="720">
+  <img src="assets/evotec-logo-horizontal-gradient-tagline.svg#gh-light-mode-only" alt="Evotec — Evolve. Innovate. Protect." width="720">
 </p>
-
-<p align="center"><strong>Evolve. Innovate. Protect.</strong></p>
 
 Evotec builds practical automation, security, and reporting tools for modern IT teams. We combine PowerShell, C#, and Microsoft technologies to help organizations operate with more clarity, consistency, and control.
 
