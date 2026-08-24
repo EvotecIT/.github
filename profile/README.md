@@ -1,51 +1,34 @@
-# EvotecIT
+<p align="center">
+  <img src="assets/evotec-logo-horizontal-navy-panel.png" alt="Evotec" width="720">
+</p>
 
-🚀 Enterprise Automation & Security Experts
-Passionate about building better IT through PowerShell, C#, and Microsoft technologies.
+<p align="center"><strong>Evolve. Innovate. Protect.</strong></p>
 
----
+Evotec builds practical automation, security, and reporting tools for modern IT teams. We combine PowerShell, C#, and Microsoft technologies to help organizations operate with more clarity, consistency, and control.
 
-### What We Do
-- 🔒 **Security & AD Health** – Active Directory, PKI, DNS, Email, Azure AD
-- ⚙️ **Automation & DevOps** – PowerShell modules, CI/CD, Infrastructure as Code
-- ☁️ **Cloud Expertise** – Office 365, Exchange, Azure AD
-- 📊 **Reporting & Insights** – Custom tooling, health checks, diagnostics
+## What we do
 
----
+- **Identity and security** — Active Directory, Microsoft Entra ID, PKI, DNS, email security, and infrastructure health
+- **Automation and DevOps** — PowerShell modules, CI/CD, infrastructure as code, and repeatable operational workflows
+- **Microsoft cloud** — Microsoft 365, Exchange Online, Azure, and Microsoft Graph
+- **Reporting and diagnostics** — Purpose-built tooling, health checks, document automation, and actionable insights
 
-### 🌍 Community & Open Source
-EvotecIT is the home of widely used **open-source projects** trusted by IT admins and enterprises worldwide:
+## Open source
 
-- [GPOZaurr](https://github.com/EvotecIT/GPOZaurr) – GPO management & reporting
-- [TestimoX](https://testimox.com) – Active Directory health analyzer
-- [OfficeIMO](https://github.com/EvotecIT/OfficeIMO) – Word/Excel/PowerPoint automation
-- [Mailozaurr](https://github.com/EvotecIT/Mailozaurr) – Email diagnostics & automation
-- [DomainDetective](https://github.com/EvotecIT/DomainDetective) – DNS & email security checks
-- And many more on [GitHub](https://github.com/EvotecIT)
+Evotec maintains a growing portfolio of open-source tools for IT professionals and organizations:
 
----
+- [GPOZaurr](https://github.com/EvotecIT/GPOZaurr) — Group Policy reporting, analysis, and management
+- [TestimoX](https://testimox.com) — Active Directory health analysis
+- [OfficeIMO](https://github.com/EvotecIT/OfficeIMO) — Word, Excel, PowerPoint, PDF, and document automation for .NET
+- [Mailozaurr](https://github.com/EvotecIT/Mailozaurr) — Email delivery, diagnostics, and automation
+- [DomainDetective](https://github.com/EvotecIT/DomainDetective) — DNS, domain, and email-security analysis
 
-### 📖 Knowledge Sharing
-We run [**Evotec.xyz**](https://evotec.xyz), a blog full of deep-dive articles, tutorials, and insights on:
-- Active Directory & Azure AD
-- Exchange & Office 365
-- PowerShell & C# automation
-- Security best practices
+Explore all our work in the [EvotecIT repositories](https://github.com/orgs/EvotecIT/repositories).
 
----
+## Knowledge and services
 
-### 🤝 Work With Us
-We help enterprises:
-- Modernize their IT infrastructure
-- Improve security posture
-- Automate repetitive processes
-- Deliver better reporting & insights
+We share technical guidance and practical examples at [evotec.xyz](https://evotec.xyz). For consulting, architecture, custom tooling, and enterprise automation services, visit [evotec.pl](https://evotec.pl).
 
-💡 Whether it’s consulting, architecture, or custom tooling — we’ve got you covered.
+## Connect
 
----
-
-### 📬 Connect
-🌐 [Website](https://evotec.xyz) • 🐦 [Twitter](https://twitter.com/PrzemyslawKlys) • 💼 [LinkedIn Evotec](https://www.linkedin.com/company/evotec-poland) • 💼 [LinkedIn Przemysław Klys](https://www.linkedin.com/in/pklys/) • 📧 [Contact](mailto:conect@evotec.pl)
-
----
+[Website](https://evotec.pl) · [Knowledge base](https://evotec.xyz) · [LinkedIn](https://www.linkedin.com/company/evotec-poland) · [X](https://x.com/EvotecPL) · [contact@evotec.pl](mailto:contact@evotec.pl)
