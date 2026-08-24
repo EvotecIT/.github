@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/evotec-logo-horizontal-on-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/evotec-logo-horizontal-gradient.svg">
-    <img src="assets/evotec-logo-horizontal-navy-panel.svg" alt="Evotec" width="720">
-  </picture>
+  <img src="assets/evotec-logo-horizontal-on-dark.svg#gh-dark-mode-only" alt="Evotec" width="720">
+  <img src="assets/evotec-logo-horizontal-gradient.svg#gh-light-mode-only" alt="Evotec" width="720">
 </p>
 
 <p align="center"><strong>Evolve. Innovate. Protect.</strong></p>
